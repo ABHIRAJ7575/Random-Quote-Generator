@@ -40,7 +40,7 @@ This project was born out of the pure necessity to procrastinate on more importa
 
 That's it. Three files. Zero dependencies. Zero build process. Zero npm packages that are actually 47 other packages in a trench coat.
 
-If you were expecting to see TypeScript, Next.js, Tailwind, and a MongoDB database for a quote generator, I'm sorry to disappoint you. This project respects your disk space.
+If you were expecting to see TypeScript, Next.js, Tailwind, and a MongoDB database for a quote generator, I'm happy to disappoint you. This project respects your disk space, but not it's developer.
 
 ## Installation (Overly Complicated Instructions for a Simple Project)
 
@@ -154,9 +154,9 @@ If you've read this far, you either:
 1. Have way too much free time
 2. Are avoiding real work
 3. Actually found this funny
-4. All of the above
+4. All of the above 😒
 
-Either way, thanks for stopping by. Now go build something actually useful. Or don't. I'm not your father.
+Either way, thanks for stopping by. Now go build something actually useful. Or don't. I'm not your mentor.🥱
 
 ---
 
